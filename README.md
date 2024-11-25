@@ -16,7 +16,7 @@ Feel free to explore and follow my journey!
 ![Shell](https://img.icons8.com/fluency/48/000000/console.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 
-## Comnpleted projects at 42SP
+## Completed projects at 42SP
 
 [![Piscine](./badges/piscina.png)](https://github.com/peda-cos/42_piscine)
 [![Warmup](./badges/phase_onem.png)](https://github.com/peda-cos/42_warmup)
