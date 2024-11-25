@@ -18,7 +18,11 @@ Feel free to explore and follow my journey!
 
 ## Comnpleted projects at 42SP
 
-
+[![Piscine](./badges/piscina.png)](https://github.com/peda-cos/42_piscine)
+[![Warmup](./badges/phase_onem.png)](https://github.com/peda-cos/42_warmup)
+[![Libft](./badges/libftm.png)](https://github.com/peda-cos/ft_libft)
+[![Printf](./badges/ft_printfe.png)](https://github.com/peda-cos/ft_printf)
+[![get_next_line](./badges/get_next_linee.png)](https://github.com/peda-cos/get_next_line)
 
 ## Contact me
 <a href="mailto:memejaragua@gmail.com">
