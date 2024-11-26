@@ -6,13 +6,7 @@ My name is Melissa, and I am a student at **42 São Paulo**, a programming schoo
 
 Feel free to explore and follow my journey!
 
-# GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=github)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=github)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meandrad&show_icons=true&theme=github)
 
 ## I'm currently learning
 
