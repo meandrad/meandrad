@@ -6,9 +6,7 @@ My name is Melissa, and I am a student at **42 São Paulo**, a programming schoo
 
 Feel free to explore and follow my journey!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meandrad&show_icons=true&theme=graywhite" alt="Your GitHub Stats"/>
-</p>
+![Snake Game Animation](https://github.com/seunome/snake-game/blob/main/assets/snake_game_animation.gif)
 
 ## I'm currently learning
 
