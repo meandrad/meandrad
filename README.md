@@ -14,7 +14,7 @@ Feel free to explore and follow my journey!
 
 ## Completed projects at 42SP
 
-[![Libft](./badges/libftm.png)](https://github.com/meandrad/libft)
+[![Libft](./badges/libfte.png)](https://github.com/meandrad/libft)
 [![Printf](./badges/ft_printfe.png)](https://github.com/meandrad/ft_printf)
 [![get_next_line](./badges/get_next_linee.png)](https://github.com/meandrad/get_next_line)
 
