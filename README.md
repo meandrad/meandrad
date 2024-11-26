@@ -6,7 +6,7 @@ My name is Melissa, and I am a student at **42 São Paulo**, a programming schoo
 
 Feel free to explore and follow my journey!
 
-![Snake Game Animation](https://github.com/seunome/snake-game/blob/main/assets/snake_game_animation.gif)
+![Snake Game Animation](https://github.com/meandrad/snake-game/blob/main/assets/snake_game_animation.gif)
 
 ## I'm currently learning
 
