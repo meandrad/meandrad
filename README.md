@@ -14,9 +14,15 @@ Feel free to explore and follow my journey!
 
 ## Completed projects at 42SP
 
-[![Libft](./badges/libfte.png)](https://github.com/meandrad/libft)
-[![Printf](./badges/ft_printfe.png)](https://github.com/meandrad/ft_printf)
-[![get_next_line](./badges/get_next_linee.png)](https://github.com/meandrad/get_next_line)
+<a href="https://github.com/meandrad/libft">
+  <img src="./badges/libfte.png" alt="Libft" width="100" height="100">
+</a>
+<a href="https://github.com/meandrad/ft_printf">
+  <img src="./badges/ft_printfe.png" alt="Printf" width="100" height="100">
+</a>
+<a href="https://github.com/meandrad/get_next_line">
+  <img src="./badges/get_next_linee.png" alt="Get Next Line" width="100" height="100">
+</a>
 
 ## Contact me
 <a href="mailto:memejaragua@gmail.com">
