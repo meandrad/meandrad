@@ -31,9 +31,6 @@ Feel free to explore and follow my journey!
 <a href="mailto:memejaragua@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48" height="48" />
 </a>
-<a href="https://www.linkedin.com/in/melissa-garcia-85130b307/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
-</a>
 
 
 
