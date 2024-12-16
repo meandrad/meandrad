@@ -23,6 +23,9 @@ Feel free to explore and follow my journey!
 <a href="https://github.com/meandrad/get_next_line">
   <img src="./badges/get_next_linee.png" alt="Get Next Line" width="100" height="100">
 </a>
+<a href="https://github.com/meandrad/get_next_line">
+  <img src="./badges/born2beroote.png" alt="Get Next Line" width="100" height="100">
+</a>
 
 ## Contact me
 <a href="mailto:memejaragua@gmail.com">
